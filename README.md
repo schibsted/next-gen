@@ -11,10 +11,10 @@ product managers and journalists, and this is what we’re working on right now:
 
 * With _VG Next_, we’re building a newspaper where journalists talk to you, and
   where you can talk back.
+* With _Sports Next_, we’re building a live sports service for the future, as
+  personal and unique as the people who use it. 
 * It’s all a matter of perspective, and you’d have to read a dozen newspapers to
   get them all. _Omni_ does that for you.
-* With _Sports Next_, we’re building a live sports service for the future, as
-  personal and unique as the people who use it.
 
 We need more people to be working on this. We’re looking for engineers whose
 code doubles as documentation, and whose commits have us racing to merge just
